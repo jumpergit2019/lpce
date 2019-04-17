@@ -1,10 +1,10 @@
 package packet
 
 import (
-	"components/log"
 	"encoding/base64"
 	"errors"
 	"fmt"
+	"github.com/jumpergit2019/lpce/log"
 	"reflect"
 )
 

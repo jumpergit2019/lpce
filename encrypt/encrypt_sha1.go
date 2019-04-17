@@ -4,7 +4,7 @@ import (
 	"crypto/sha1"
 	"errors"
 	"fmt"
-	"components/log"
+	"github.com/jumpergit2019/lpce/log"
 )
 
 type EncryptOpSha1 struct {

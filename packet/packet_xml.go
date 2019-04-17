@@ -1,7 +1,7 @@
 package packet
 
 import (
-	"components/log"
+	"github.com/jumpergit2019/lpce/log"
 	"encoding/xml"
 	"fmt"
 )

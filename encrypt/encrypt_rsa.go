@@ -7,7 +7,7 @@ import (
 	"encoding/pem"
 	"errors"
 	"fmt"
-	"components/log"
+	"github.com/jumpergit2019/lpce/log"
 )
 
 type EncryptOpRsa struct {

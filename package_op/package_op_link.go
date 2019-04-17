@@ -2,9 +2,12 @@ package package_op
 
 import (
 	"fmt"
-	"../compress"
-	"../encrypt"
-	"../packet"
+	//"../compress"
+	//"../encrypt"
+	//"../packet"
+	"github.com/jumpergit2019/lpce/compress"
+	"github.com/jumpergit2019/lpce/packet"
+	"github.com/jumpergit2019/lpce/encrypt"
 )
 
 // 使用一系列　PackageOp 来构造一条操作链，　

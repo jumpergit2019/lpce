@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 	"compress/zlib"
-	"components/log"
+	"github.com/jumpergit2019/lpce/log"
 )
 
 type CompressOpZlib struct{

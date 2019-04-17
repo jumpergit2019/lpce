@@ -2,7 +2,8 @@ package main
 
 import (
 	//"github.com/golang/protobuf/proto"
-	"../package_op"
+	//"../package_op"
+	"github.com/jumpergit2019/lpce/package_op"
 	"fmt"
 )
 

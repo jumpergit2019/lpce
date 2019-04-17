@@ -7,7 +7,7 @@ import (
 	"errors"
 	"fmt"
 	"io"
-	"components/log"
+	"github.com/jumpergit2019/lpce/log"
 )
 
 type EncryptOpDes struct {

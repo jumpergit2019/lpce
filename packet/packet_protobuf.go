@@ -5,7 +5,7 @@ import (
 
 	"github.com/golang/protobuf/proto"
 	"fmt"
-	"components/log"
+	"github.com/jumpergit2019/lpce/log"
 )
 
 type PacketOpProtobuf struct {

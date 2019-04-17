@@ -5,7 +5,7 @@ import (
 	"compress/gzip"
 	"fmt"
 	"io"
-	"components/log"
+	"github.com/jumpergit2019/lpce/log"
 )
 
 type CompressOpGzip struct{

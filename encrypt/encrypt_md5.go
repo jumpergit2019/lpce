@@ -4,7 +4,7 @@ import (
 	"crypto/md5"
 	"errors"
 	"fmt"
-	"components/log"
+	"github.com/jumpergit2019/lpce/log"
 )
 
 type EncryptOpMd5 struct {
