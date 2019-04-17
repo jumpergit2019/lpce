@@ -2,9 +2,9 @@ package package_op
 
 import (
 	"fmt"
-	"components/package_v_1_0/compress"
-	"components/package_v_1_0/encrypt"
-	"components/package_v_1_0/packet"
+	"../compress"
+	"../encrypt"
+	"../packet"
 )
 
 // 使用一系列　PackageOp 来构造一条操作链，　

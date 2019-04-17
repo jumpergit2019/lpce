@@ -2,11 +2,8 @@ package main
 
 import (
 	//"github.com/golang/protobuf/proto"
-	//"components/package/encrypt"
-	//"fmt"
-	//"components/package/packet"
+	"../package_op"
 	"fmt"
-	"components/package_v_1_0/package_op"
 )
 
 func main() {
